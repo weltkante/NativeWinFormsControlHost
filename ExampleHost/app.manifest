@@ -1,0 +1,6 @@
+<assembly manifestVersion="1.0" xmlns="urn:schemas-microsoft-com:asm.v1">
+  <assemblyIdentity version="1.0.0.0" name="MyApplication.app"/>
+  <file name="ExampleControl.comhost.dll">
+    <comClass clsid="{1A12316B-249C-493F-9E9C-FD6EE986B72D}" threadingModel="Both" />
+  </file>
+</assembly>
